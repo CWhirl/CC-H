@@ -22,4 +22,4 @@ They gave me some changes to make including the following:
 
     Then plug in the hypnotherapy services info that is currently on the About page on the right side of this page."
 
-After making changes I did some SEO work to make the site more search engine friendly.
+After making changes I did some SEO work to make the site more search engine friendly. Added links to other pages, alt text on images, links to social media pages, checked color palette, etc.
