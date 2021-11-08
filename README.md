@@ -5,7 +5,7 @@ Met with client to discuss the site and determine the scope of work, they had at
 
 They gave me some changes to make including the following:
 
-        Here are some tweaks I would like to the website.  I have attached my business logo for the home page, and my professional picture for the "About" page.
+        "Here are some tweaks I would like to the website.  I have attached my business logo for the home page, and my professional picture for the "About" page.
 
     Homepage is great, I just need the logo added...maybe in the upper left corner?
     About page: Please add my picture, and move the Hypnotherapy services information to the new page.... (see #3)
@@ -20,5 +20,6 @@ They gave me some changes to make including the following:
             -Womens' Issues
             -Relationship and family problems
 
-    Then plug in the hypnotherapy services info that is currently on the About page on the right side of this page.
+    Then plug in the hypnotherapy services info that is currently on the About page on the right side of this page."
 
+After making changes I did some SEO work to make the site more search engine friendly.
